@@ -1,0 +1,4 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler78\bin\Release\ProjectEuler78.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler78\bin\Release\ProjectEuler78.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler78\obj\x86\Release\ProjectEuler78.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler78\obj\x86\Release\ProjectEuler78.pdb

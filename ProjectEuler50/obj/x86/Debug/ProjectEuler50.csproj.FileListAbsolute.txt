@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler50\bin\Debug\ProjectEuler50.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler50\bin\Debug\ProjectEuler50.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler50\bin\Debug\EulerLibrary.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler50\bin\Debug\EulerLibrary.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler50\obj\x86\Debug\ProjectEuler50.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler50\obj\x86\Debug\ProjectEuler50.pdb

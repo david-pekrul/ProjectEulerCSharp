@@ -1,0 +1,4 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler65\bin\Debug\ProjectEuler65.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler65\bin\Debug\ProjectEuler65.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler65\obj\x86\Debug\ProjectEuler65.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler65\obj\x86\Debug\ProjectEuler65.pdb

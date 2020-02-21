@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler345\bin\Release\ProjectEuler345.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler345\bin\Release\ProjectEuler345.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler345\bin\Release\EulerLibrary.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler345\bin\Release\EulerLibrary.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler345\obj\x86\Release\ProjectEuler345.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler345\obj\x86\Release\ProjectEuler345.pdb

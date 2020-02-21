@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler127\bin\Debug\ProjectEuler127.exe.config
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler127\bin\Debug\ProjectEuler127.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler127\bin\Debug\ProjectEuler127.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler127\bin\Debug\EulerLibrary.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler127\bin\Debug\EulerLibrary.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler127\obj\x86\Debug\ProjectEuler127.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler127\obj\x86\Debug\ProjectEuler127.pdb

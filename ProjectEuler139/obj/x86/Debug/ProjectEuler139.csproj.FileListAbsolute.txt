@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler139\bin\Debug\ProjectEuler139.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler139\bin\Debug\ProjectEuler139.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler139\obj\x86\Debug\ProjectEuler139.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler139\obj\x86\Debug\ProjectEuler139.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler139\bin\Debug\EulerLibrary.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler139\bin\Debug\EulerLibrary.pdb

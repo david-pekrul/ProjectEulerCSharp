@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\TrieTreeTest\bin\Release\TrieTreeTest.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\TrieTreeTest\bin\Release\TrieTreeTest.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\TrieTreeTest\bin\Release\EulerLibrary.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\TrieTreeTest\bin\Release\EulerLibrary.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\TrieTreeTest\obj\x86\Release\TrieTreeTest.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\TrieTreeTest\obj\x86\Release\TrieTreeTest.pdb

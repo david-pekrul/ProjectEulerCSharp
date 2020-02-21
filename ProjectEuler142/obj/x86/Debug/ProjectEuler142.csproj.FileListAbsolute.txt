@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler142\bin\Debug\ProjectEuler142.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler142\bin\Debug\ProjectEuler142.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler142\bin\Debug\EulerLibrary.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler142\bin\Debug\EulerLibrary.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler142\obj\x86\Debug\ProjectEuler142.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler142\obj\x86\Debug\ProjectEuler142.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler142\obj\x86\Debug\ProjectEuler142.csprojResolveAssemblyReference.cache

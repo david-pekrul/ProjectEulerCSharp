@@ -1,0 +1,901 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="ED881B81-C45F-4E1A-96C1-57B7B7524E55/f:Program.cs" caret="874" fromTop="0" />
+      <File id="03E75F75-46C8-4E0E-AAAA-57D2FED28E84/f:Program.cs" caret="818" fromTop="14" />
+      <File id="97C398B9-6A27-4C53-8B3D-D9211CCDCA81/f:Program.cs" caret="1231" fromTop="23" />
+      <File id="7D2C612F-87F5-4024-8473-B0A4248D1F8E/f:Program.cs" caret="702" fromTop="12" />
+      <File id="F47E815F-A605-4058-A0BC-9B92B0EE91C3/f:Program.cs" caret="2537" fromTop="90" />
+      <File id="6610C9B2-84CC-4B67-A072-0EA861C6D771/f:Program.cs" caret="2696" fromTop="18" />
+      <File id="86AAD580-2D6D-432D-BF7F-EBA939B73DBD/f:Program.cs" caret="1502" fromTop="43" />
+      <File id="04E55E67-4294-4CCC-8F8C-190A0797FC9F/f:Program.cs" caret="446" fromTop="15" />
+      <File id="BD3BC3D6-DD24-46C4-97E0-5AABD7FC6ABA/f:Program.cs" caret="1086" fromTop="0" />
+      <File id="6166081A-ECED-455B-B57C-E21E10BCB148/f:Program.cs" caret="294" fromTop="13" />
+      <File id="CD2E0569-C80A-4307-AD9C-A27E1CC320A2/f:Program.cs" caret="1111" fromTop="40" />
+      <File id="2F5BB664-9EF7-468C-A37C-C1C1CBB88AB0/f:Program.cs" caret="1528" fromTop="55" />
+      <File id="355B7067-7E55-4948-B920-1A2CD60FEF45/f:Program.cs" caret="4780" fromTop="81" />
+      <File id="F5F69B5A-402A-4AA5-A74B-3B52742D87F9/f:Program.cs" caret="1075" fromTop="33" />
+      <File id="60ED688B-D983-4226-AE71-9292AB6BC738/f:Program.cs" caret="2219" fromTop="42" />
+      <File id="0819445E-2BDF-45EB-BC28-545AA26FB432/f:Program.cs" caret="2382" fromTop="60" />
+      <File id="8FB7A134-5B62-45AA-AB95-5718AE6DC1E5/f:Program.cs" caret="380" fromTop="14" />
+      <File id="82360F41-15FB-42A5-BFCA-514E5DC2A1DE/f:Program.cs" caret="371" fromTop="16" />
+      <File id="32FE3981-4ABC-41E9-BEC2-564849E0F658/f:Program.cs" caret="716" fromTop="18" />
+      <File id="F690F253-9D52-4932-8362-EF7ABAE47FCE/f:Program.cs" caret="854" fromTop="31" />
+      <File id="A681F521-E182-459F-A291-F3546CF16E34/f:Program.cs" caret="1856" fromTop="18" />
+      <File id="4E11D236-EA4C-4A83-AC10-97C5156DDC40/f:Program.cs" caret="388" fromTop="18" />
+      <File id="8E71CFEA-18BC-49B3-B652-1B1CC51974BD/f:Program.cs" caret="433" fromTop="18" />
+      <File id="07BE59FB-C6DB-480F-8FD0-5BB0709C8FDF/f:Program.cs" caret="960" fromTop="22" />
+      <File id="79E0D87C-2106-4E66-906C-1EC5C7C4FADC/f:Program.cs" caret="701" fromTop="28" />
+      <File id="EAE755D9-F8FB-49F0-A550-528037DC665A/f:Program.cs" caret="13063" fromTop="43" />
+      <File id="DD92F70F-A610-45A8-B9CE-AFD0BF135252/f:Matrix.cs" caret="12224" fromTop="0" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="683" fromTop="23" />
+      <File id="DD92F70F-A610-45A8-B9CE-AFD0BF135252/f:Numbers.cs" caret="15791" fromTop="22" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="500" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="79E0D87C-2106-4E66-906C-1EC5C7C4FADC/f:Program.cs" caret="857" fromTop="25" />
+      <File id="79E0D87C-2106-4E66-906C-1EC5C7C4FADC/f:Program.cs" caret="520" fromTop="20" />
+      <File id="79E0D87C-2106-4E66-906C-1EC5C7C4FADC/f:Program.cs" caret="262" fromTop="12" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="109" fromTop="4" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="4885" fromTop="12" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="4885" fromTop="41" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="4885" fromTop="16" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="4885" fromTop="16" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="4885" fromTop="28" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="4885" fromTop="5" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="275" fromTop="41" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="1528" fromTop="31" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="1121" fromTop="16" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="1121" fromTop="26" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="1160" fromTop="31" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="1851" fromTop="30" />
+      <File id="AEF3BB92-119B-42D3-891F-54176BC38881/f:Program.cs" caret="2441" fromTop="35" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="109" fromTop="4" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="1906" fromTop="18" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="1900" fromTop="31" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="1900" fromTop="23" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="1900" fromTop="28" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="1374" fromTop="27" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="1933" fromTop="33" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="1218" fromTop="12" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="1419" fromTop="17" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="1594" fromTop="21" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="1789" fromTop="28" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="395" fromTop="16" />
+      <File id="3CD3466B-A200-47F4-BDD4-3C51C9F2644C/f:Program.cs" caret="762" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="static" priority="76" />
+      <Item value="List" priority="59" />
+      <Item value="int" priority="439" />
+      <Item value="digits" priority="8" />
+      <Item value="if" priority="259" />
+      <Item value="while" priority="49" />
+      <Item value="index" priority="7" />
+      <Item value="baseValue" priority="0" />
+      <Item value="bool" priority="54" />
+      <Item value="false" priority="44" />
+      <Item value="adjusted" priority="1" />
+      <Item value="true" priority="31" />
+      <Item value="return" priority="157" />
+      <Item value="for" priority="110" />
+      <Item value="new" priority="129" />
+      <Item value="List&lt;int&gt;" priority="9" />
+      <Item value="k" priority="12" />
+      <Item value="count" priority="25" />
+      <Item value="l" priority="13" />
+      <Item value="void" priority="14" />
+      <Item value="System" priority="12" />
+      <Item value="foreach" priority="33" />
+      <Item value="in" priority="34" />
+      <Item value="list" priority="11" />
+      <Item value="Console`0" priority="162" />
+      <Item value="i" priority="225" />
+      <Item value="printList`0" priority="1" />
+      <Item value="countInBaseX`0" priority="0" />
+      <Item value="class" priority="7" />
+      <Item value="Random`0" priority="0" />
+      <Item value="public" priority="83" />
+      <Item value="Dice`0" priority="10" />
+      <Item value="r" priority="10" />
+      <Item value="Random" priority="0" />
+      <Item value="numberOfPlayers" priority="2" />
+      <Item value="XtoY" priority="1" />
+      <Item value="Dice" priority="1" />
+      <Item value="roll" priority="2" />
+      <Item value="d" priority="22" />
+      <Item value="else" priority="30" />
+      <Item value="turns" priority="0" />
+      <Item value="playGame`0" priority="1" />
+      <Item value="double" priority="28" />
+      <Item value="numberOfGames" priority="2" />
+      <Item value="totalRolls" priority="2" />
+      <Item value="answer" priority="16" />
+      <Item value="using" priority="20" />
+      <Item value="Threading" priority="2" />
+      <Item value="Tasks" priority="0" />
+      <Item value="List&lt;double&gt;" priority="0" />
+      <Item value="Parallel`0" priority="1" />
+      <Item value="args" priority="2" />
+      <Item value="lock" priority="0" />
+      <Item value="running" priority="1" />
+      <Item value="rolls" priority="0" />
+      <Item value="Thread`0" priority="1" />
+      <Item value="Lowest" priority="0" />
+      <Item value="numberOfTrials" priority="0" />
+      <Item value="Paper`0" priority="8" />
+      <Item value="size" priority="1" />
+      <Item value="PaperSet`0" priority="5" />
+      <Item value="set" priority="4" />
+      <Item value="List&lt;Paper&gt;" priority="1" />
+      <Item value="null" priority="24" />
+      <Item value="HashSet" priority="52" />
+      <Item value="HashSet&lt;Paper&gt;" priority="0" />
+      <Item value="Paper" priority="0" />
+      <Item value="parentPaper" priority="1" />
+      <Item value="parent" priority="2" />
+      <Item value="Math`0" priority="26" />
+      <Item value="max" priority="1" />
+      <Item value="a" priority="22" />
+      <Item value="h" priority="1" />
+      <Item value="totalPermiter" priority="4" />
+      <Item value="_AppDomain`0" priority="11" />
+      <Item value="perimeter" priority="1" />
+      <Item value="w" priority="2" />
+      <Item value="s" priority="22" />
+      <Item value="c" priority="33" />
+      <Item value="z" priority="13" />
+      <Item value="q" priority="9" />
+      <Item value="decimal" priority="13" />
+      <Item value="g" priority="5" />
+      <Item value="float" priority="1" />
+      <Item value="isPerfectSquare`0" priority="1" />
+      <Item value="FactorTree`0" priority="10" />
+      <Item value="long" priority="12" />
+      <Item value="trees" priority="0" />
+      <Item value="EulerLibrary" priority="22" />
+      <Item value="t" priority="6" />
+      <Item value="pfs" priority="5" />
+      <Item value="left" priority="5" />
+      <Item value="NetPipeStyleUriParser`0" priority="0" />
+      <Item value="Numbers`0" priority="25" />
+      <Item value="divisors" priority="5" />
+      <Item value="Stack" priority="9" />
+      <Item value="Stack&lt;int&gt;" priority="1" />
+      <Item value="Dictionary" priority="12" />
+      <Item value="Dictionary&lt;int,List&lt;bool&gt;&gt;" priority="0" />
+      <Item value="Stack&lt;List&lt;bool&gt;&gt;" priority="0" />
+      <Item value="stack" priority="20" />
+      <Item value="List&lt;bool&gt;" priority="3" />
+      <Item value="HashSet&lt;List&lt;bool&gt;&gt;" priority="0" />
+      <Item value="bitMasksOfSameLength" priority="0" />
+      <Item value="maxLength" priority="3" />
+      <Item value="lengthToBitMasks" priority="3" />
+      <Item value="HashSet&lt;bool&gt;" priority="0" />
+      <Item value="mask" priority="5" />
+      <Item value="continue" priority="18" />
+      <Item value="mf" priority="4" />
+      <Item value="m" priority="20" />
+      <Item value="doTheThings`0" priority="0" />
+      <Item value="primeFactors" priority="2" />
+      <Item value="value" priority="10" />
+      <Item value="getDivisors`0" priority="3" />
+      <Item value="factorTrees" priority="7" />
+      <Item value="divs" priority="0" />
+      <Item value="HashSet&lt;int&gt;" priority="12" />
+      <Item value="number" priority="53" />
+      <Item value="private" priority="24" />
+      <Item value="primes" priority="24" />
+      <Item value="prime" priority="9" />
+      <Item value="multiple" priority="1" />
+      <Item value="product" priority="4" />
+      <Item value="Dictionary&lt;int,int&gt;" priority="5" />
+      <Item value="numberToSumOfDivisors" priority="2" />
+      <Item value="sumOfDivisors" priority="3" />
+      <Item value="ParallelEnumerable`0" priority="1" />
+      <Item value="getSumOfDivisors`0" priority="6" />
+      <Item value="numberToChainLength" priority="5" />
+      <Item value="usedNumbers" priority="5" />
+      <Item value="nextNumber" priority="10" />
+      <Item value="break" priority="41" />
+      <Item value="length" priority="1" />
+      <Item value="getChainLengthForStartingNumber`0" priority="1" />
+      <Item value="chainLength" priority="1" />
+      <Item value="minimumLength" priority="0" />
+      <Item value="minimumStartingNumber" priority="1" />
+      <Item value="readonly" priority="2" />
+      <Item value="million" priority="2" />
+      <Item value="numbercopy" priority="0" />
+      <Item value="f" priority="1" />
+      <Item value="previousL" priority="1" />
+      <Item value="tree" priority="1" />
+      <Item value="primeToCount" priority="3" />
+      <Item value="p" priority="3" />
+      <Item value="added" priority="2" />
+      <Item value="pow" priority="12" />
+      <Item value="x" priority="13" />
+      <Item value="minimumContainedNumber" priority="0" />
+      <Item value="chainForI" priority="0" />
+      <Item value="OutOfMemoryException`0" priority="3" />
+      <Item value="Tuple`0" priority="4" />
+      <Item value="Tuple&lt;int,int&gt;" priority="2" />
+      <Item value="Tuple&lt;bool,HashSet&lt;int&gt;&gt;" priority="1" />
+      <Item value="char" priority="9" />
+      <Item value="sides" priority="12" />
+      <Item value="List&lt;char&gt;" priority="0" />
+      <Item value="PairOfDice`0" priority="5" />
+      <Item value="d1" priority="4" />
+      <Item value="d2" priority="4" />
+      <Item value="e" priority="1" />
+      <Item value="override" priority="10" />
+      <Item value="string" priority="20" />
+      <Item value="originalSides" priority="0" />
+      <Item value="byte" priority="22" />
+      <Item value="Stack&lt;HashSet&lt;byte&gt;&gt;" priority="0" />
+      <Item value="HashSet&lt;byte&gt;" priority="3" />
+      <Item value="HashSet&lt;Dice&gt;" priority="0" />
+      <Item value="hash" priority="21" />
+      <Item value="allDice" priority="2" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="next" priority="20" />
+      <Item value="obj" priority="5" />
+      <Item value="typeof" priority="1" />
+      <Item value="other" priority="1" />
+      <Item value="this" priority="23" />
+      <Item value="HashSet&lt;PairOfDice&gt;" priority="0" />
+      <Item value="List&lt;Dice&gt;" priority="0" />
+      <Item value="diceList" priority="3" />
+      <Item value="Boolean`0" priority="4" />
+      <Item value="PairOfDice" priority="0" />
+      <Item value="pod" priority="1" />
+      <Item value="workingPairs" priority="1" />
+      <Item value="combinedSides" priority="3" />
+      <Item value="b" priority="18" />
+      <Item value="requiredSides" priority="5" />
+      <Item value="missingSides" priority="3" />
+      <Item value="calcedMissingSides" priority="1" />
+      <Item value="getSidesNeededByOtherDice`0" priority="0" />
+      <Item value="factorialDictionary" priority="5" />
+      <Item value="n" priority="48" />
+      <Item value="Factorial`0" priority="1" />
+      <Item value="factorial" priority="1" />
+      <Item value="factorial`0" priority="0" />
+      <Item value="nBang" priority="0" />
+      <Item value="rBang" priority="0" />
+      <Item value="nMinusRBang" priority="0" />
+      <Item value="allNumbers" priority="0" />
+      <Item value="sidesNeededByOtherDice" priority="1" />
+      <Item value="count1" priority="1" />
+      <Item value="op" priority="12" />
+      <Item value="worked" priority="2" />
+      <Item value="opStack" priority="3" />
+      <Item value="SudokuSquare`0" priority="4" />
+      <Item value="IO" priority="0" />
+      <Item value="StreamReader`0" priority="1" />
+      <Item value="StreamReader" priority="0" />
+      <Item value="reader" priority="9" />
+      <Item value="SudokuSquare" priority="0" />
+      <Item value="col" priority="3" />
+      <Item value="line" priority="0" />
+      <Item value="square" priority="21" />
+      <Item value="row" priority="2" />
+      <Item value="num" priority="25" />
+      <Item value="MAX_SIZE" priority="1" />
+      <Item value="output" priority="2" />
+      <Item value="parseSudokuSquare`0" priority="1" />
+      <Item value="solveSquare`0" priority="1" />
+      <Item value="newVal" priority="1" />
+      <Item value="lastMoveWorked" priority="3" />
+      <Item value="rref`0" priority="0" />
+      <Item value="matrix" priority="15" />
+      <Item value="Length" priority="6" />
+      <Item value="GetLength`0" priority="1" />
+      <Item value="rows" priority="1" />
+      <Item value="columns" priority="1" />
+      <Item value="minSize" priority="0" />
+      <Item value="isMatrixInRREFform`0" priority="0" />
+      <Item value="minDimension" priority="1" />
+      <Item value="workingIndex" priority="2" />
+      <Item value="comparisonRow" priority="0" />
+      <Item value="sortedByValue" priority="7" />
+      <Item value="highSuit" priority="0" />
+      <Item value="highValue" priority="0" />
+      <Item value="flush" priority="4" />
+      <Item value="RoyalFlush" priority="1" />
+      <Item value="StraightFlush" priority="2" />
+      <Item value="handType" priority="10" />
+      <Item value="FullHouse" priority="0" />
+      <Item value="ThreeOfAKind" priority="0" />
+      <Item value="HandType`0" priority="0" />
+      <Item value="TwoPairs" priority="1" />
+      <Item value="FourOfAKind" priority="0" />
+      <Item value="orderedListOfHighCard" priority="6" />
+      <Item value="Hand`0" priority="5" />
+      <Item value="h2" priority="2" />
+      <Item value="throw" priority="7" />
+      <Item value="Exception" priority="6" />
+      <Item value="temp" priority="3" />
+      <Item value="hand" priority="8" />
+      <Item value="Hand" priority="2" />
+      <Item value="secondHand" priority="0" />
+      <Item value="p2" priority="4" />
+      <Item value="p1" priority="4" />
+      <Item value="wrongCount" priority="0" />
+      <Item value="Suit`0" priority="0" />
+      <Item value="HashSet&lt;Suit&gt;" priority="0" />
+      <Item value="Card`0" priority="0" />
+      <Item value="suits" priority="3" />
+      <Item value="Flush" priority="1" />
+      <Item value="detectFlush`0" priority="1" />
+      <Item value="Func" priority="3" />
+      <Item value="Predicate" priority="1" />
+      <Item value="isRoyalFlush`0" priority="0" />
+      <Item value="isStraigFlush`0" priority="0" />
+      <Item value="isFourOfAKind`0" priority="0" />
+      <Item value="isFullHouse`0" priority="0" />
+      <Item value="isFlush`0" priority="0" />
+      <Item value="isStraight`0" priority="0" />
+      <Item value="isThreeOfAKind`0" priority="0" />
+      <Item value="isTwoPairs`0" priority="0" />
+      <Item value="isOnePair`0" priority="0" />
+      <Item value="isHighCard`0" priority="0" />
+      <Item value="test1" priority="1" />
+      <Item value="test2" priority="1" />
+      <Item value="sort`0" priority="0" />
+      <Item value="ulong" priority="136" />
+      <Item value="result" priority="8" />
+      <Item value="minimumSquare" priority="0" />
+      <Item value="powTen" priority="5" />
+      <Item value="weave`0" priority="3" />
+      <Item value="nextNum" priority="0" />
+      <Item value="spreadout`0" priority="1" />
+      <Item value="minNumber" priority="2" />
+      <Item value="done" priority="8" />
+      <Item value="counter" priority="0" />
+      <Item value="DateTime`0" priority="29" />
+      <Item value="end" priority="4" />
+      <Item value="start" priority="18" />
+      <Item value="maxNumber" priority="0" />
+      <Item value="low" priority="1" />
+      <Item value="high" priority="2" />
+      <Item value="copy" priority="11" />
+      <Item value="something" priority="4" />
+      <Item value="e1" priority="0" />
+      <Item value="s1" priority="0" />
+      <Item value="works`0" priority="0" />
+      <Item value="addAmount" priority="2" />
+      <Item value="Dictionary&lt;double,double&gt;" priority="0" />
+      <Item value="numToSquare" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="GC`0" priority="0" />
+      <Item value="sizeof" priority="0" />
+      <Item value="HashSet&lt;Tuple&lt;ulong,ulong,ulong&gt;&gt;" priority="0" />
+      <Item value="mm" priority="1" />
+      <Item value="nn" priority="1" />
+      <Item value="multiplier" priority="7" />
+      <Item value="leftSum" priority="5" />
+      <Item value="array" priority="18" />
+      <Item value="rightSum" priority="1" />
+      <Item value="increasedLeftSum" priority="0" />
+      <Item value="lastIndex" priority="1" />
+      <Item value="firstValue" priority="1" />
+      <Item value="removeDuplicates`0" priority="0" />
+      <Item value="fixLeft`0" priority="0" />
+      <Item value="hundredmillion" priority="2" />
+      <Item value="xx" priority="0" />
+      <Item value="yy" priority="0" />
+      <Item value="xxpyy" priority="1" />
+      <Item value="y" priority="8" />
+      <Item value="limit" priority="9" />
+      <Item value="mult" priority="0" />
+      <Item value="HashSet&lt;Tuple&lt;int,int&gt;&gt;" priority="0" />
+      <Item value="xTree" priority="0" />
+      <Item value="yTree" priority="0" />
+      <Item value="yPrimeFactors" priority="0" />
+      <Item value="xPrimeFactors" priority="1" />
+      <Item value="pf" priority="1" />
+      <Item value="good" priority="1" />
+      <Item value="Tuple&lt;uint,uint&gt;" priority="0" />
+      <Item value="uint" priority="16" />
+      <Item value="mPrimeFactors" priority="1" />
+      <Item value="factor" priority="0" />
+      <Item value="coprime" priority="1" />
+      <Item value="HashSet&lt;uint&gt;" priority="0" />
+      <Item value="fnextRight" priority="10" />
+      <Item value="isPandigital`0" priority="9" />
+      <Item value="f1Right" priority="2" />
+      <Item value="f2Right" priority="3" />
+      <Item value="fnextLeft" priority="11" />
+      <Item value="toobig" priority="0" />
+      <Item value="f1Left" priority="2" />
+      <Item value="f2Left" priority="5" />
+      <Item value="mod" priority="4" />
+      <Item value="modleft" priority="0" />
+      <Item value="maxPrime" priority="0" />
+      <Item value="canAddNumberToSetWithoutDuplicatingDigit`0" priority="0" />
+      <Item value="numberSet" priority="3" />
+      <Item value="startingIndex" priority="12" />
+      <Item value="primeCount" priority="4" />
+      <Item value="accumulateSets`0" priority="3" />
+      <Item value="copyNumberSet" priority="4" />
+      <Item value="acc" priority="0" />
+      <Item value="newStartingIndex" priority="2" />
+      <Item value="setsWithThisRoot" priority="1" />
+      <Item value="culledPrimes" priority="1" />
+      <Item value="digitCount" priority="0" />
+      <Item value="getDigitHash`0" priority="0" />
+      <Item value="remainingNumberSize" priority="0" />
+      <Item value="tenpow" priority="0" />
+      <Item value="DateTimeOffset`0" priority="0" />
+      <Item value="validNumbers" priority="3" />
+      <Item value="current" priority="1" />
+      <Item value="isPrime" priority="1" />
+      <Item value="bigPrimes" priority="0" />
+      <Item value="sqrt" priority="0" />
+      <Item value="duplicateRemoval" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="specialNumber" priority="1" />
+      <Item value="SOMETHING" priority="0" />
+      <Item value="prev" priority="3" />
+      <Item value="writer" priority="1" />
+      <Item value="StreamWriter" priority="0" />
+      <Item value="HashSet&lt;HashSet&lt;int&gt;&gt;" priority="1" />
+      <Item value="isPrime`0" priority="0" />
+      <Item value="red" priority="4" />
+      <Item value="startingBlack" priority="3" />
+      <Item value="numerator" priority="2" />
+      <Item value="denominator" priority="2" />
+      <Item value="nChoseR`0" priority="0" />
+      <Item value="thisOne" priority="1" />
+      <Item value="total" priority="2" />
+      <Item value="combinationsForSize`0" priority="0" />
+      <Item value="redSize" priority="1" />
+      <Item value="greenSize" priority="1" />
+      <Item value="blueSize" priority="1" />
+      <Item value="numRed" priority="0" />
+      <Item value="numGreen" priority="0" />
+      <Item value="Dictionary&lt;int,long&gt;" priority="1" />
+      <Item value="minRedBlockSize" priority="4" />
+      <Item value="redBlockSize" priority="4" />
+      <Item value="blackBlocks" priority="15" />
+      <Item value="ways" priority="6" />
+      <Item value="waysToFillBlackBlocks`0" priority="2" />
+      <Item value="dictionary" priority="11" />
+      <Item value="test" priority="2" />
+      <Item value="remainingBlackBlocks" priority="0" />
+      <Item value="cache" priority="0" />
+      <Item value="UriHostNameType`0" priority="1" />
+      <Item value="List&lt;ulong&gt;" priority="3" />
+      <Item value="SortedList" priority="0" />
+      <Item value="SortedList&lt;ulong&gt;" priority="0" />
+      <Item value="previousPower" priority="0" />
+      <Item value="baseNumber" priority="0" />
+      <Item value="sum" priority="13" />
+      <Item value="sumOfDigits`0" priority="2" />
+      <Item value="powered" priority="8" />
+      <Item value="timesAgain`0" priority="0" />
+      <Item value="aList" priority="21" />
+      <Item value="onceLarger" priority="1" />
+      <Item value="exponentLimit" priority="0" />
+      <Item value="exponent" priority="3" />
+      <Item value="BigInteger" priority="0" />
+      <Item value="BigInteger`0" priority="0" />
+      <Item value="thirtieth" priority="4" />
+      <Item value="squares" priority="1" />
+      <Item value="arr" priority="8" />
+      <Item value="IndexOutOfRangeException`0" priority="2" />
+      <Item value="printArray`0" priority="5" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="convertNumberToIntArray`0" priority="1" />
+      <Item value="Sum`1" priority="4" />
+      <Item value="Dictionary&lt;int,HashSet&lt;HashSet&lt;int&gt;&gt;&gt;" priority="0" />
+      <Item value="arrays" priority="6" />
+      <Item value="Array`0" priority="0" />
+      <Item value="sumsWork`0" priority="1" />
+      <Item value="numberOfWorkingGridsForValue`0" priority="0" />
+      <Item value="totalForI" priority="1" />
+      <Item value="StepNode`0" priority="10" />
+      <Item value="ctor" priority="1" />
+      <Item value="enum" priority="2" />
+      <Item value="NodeType`0" priority="3" />
+      <Item value="nodeType" priority="0" />
+      <Item value="A" priority="0" />
+      <Item value="StepNode" priority="1" />
+      <Item value="right" priority="0" />
+      <Item value="root" priority="0" />
+      <Item value="DecoderReplacementFallback`0" priority="0" />
+      <Item value="replace`0" priority="0" />
+      <Item value="StringBuilder`0" priority="1" />
+      <Item value="StringBuilder" priority="1" />
+      <Item value="sb" priority="4" />
+      <Item value="depth" priority="1" />
+      <Item value="Direction`0" priority="13" />
+      <Item value="Orientation`0" priority="27" />
+      <Item value="Rotation`0" priority="23" />
+      <Item value="Right" priority="4" />
+      <Item value="origY" priority="1" />
+      <Item value="origX" priority="1" />
+      <Item value="switch" priority="3" />
+      <Item value="case" priority="12" />
+      <Item value="R" priority="1" />
+      <Item value="D" priority="1" />
+      <Item value="L" priority="1" />
+      <Item value="U" priority="2" />
+      <Item value="List&lt;Orientation&gt;" priority="1" />
+      <Item value="Orientation" priority="9" />
+      <Item value="a0" priority="4" />
+      <Item value="getA0`0" priority="0" />
+      <Item value="bList" priority="4" />
+      <Item value="getB0`0" priority="1" />
+      <Item value="aNext" priority="4" />
+      <Item value="o2" priority="16" />
+      <Item value="orientation2" priority="3" />
+      <Item value="IOrderedEnumerable" priority="0" />
+      <Item value="o" priority="13" />
+      <Item value="aPrev" priority="2" />
+      <Item value="bPrev" priority="3" />
+      <Item value="getNextA`0" priority="0" />
+      <Item value="bNext" priority="1" />
+      <Item value="b0" priority="0" />
+      <Item value="targetDirection" priority="3" />
+      <Item value="powersOfTwo" priority="7" />
+      <Item value="pows" priority="16" />
+      <Item value="tentwelve" priority="2" />
+      <Item value="Dictionary&lt;int,ulong&gt;" priority="0" />
+      <Item value="KeyValuePair" priority="0" />
+      <Item value="startingOrientation" priority="16" />
+      <Item value="InvalidCastException`0" priority="0" />
+      <Item value="default" priority="0" />
+      <Item value="instructions" priority="0" />
+      <Item value="createNextString`0" priority="2" />
+      <Item value="followString`0" priority="2" />
+      <Item value="stepLimit" priority="3" />
+      <Item value="stepsTaken" priority="3" />
+      <Item value="muteStepLimit" priority="7" />
+      <Item value="foundA" priority="3" />
+      <Item value="bLevelsSaved" priority="2" />
+      <Item value="dLevel" priority="0" />
+      <Item value="transform" priority="0" />
+      <Item value="steps2" priority="2" />
+      <Item value="usedPowersOfTwo" priority="1" />
+      <Item value="stepsInAiDict" priority="5" />
+      <Item value="nodeSteps" priority="5" />
+      <Item value="nodeStepCount" priority="7" />
+      <Item value="lastUsedAIndex" priority="5" />
+      <Item value="currentAIndex" priority="8" />
+      <Item value="HashSet&lt;ulong&gt;" priority="0" />
+      <Item value="powersHash" priority="1" />
+      <Item value="mutableStepLimit" priority="5" />
+      <Item value="usedACount" priority="1" />
+      <Item value="flex" priority="8" />
+      <Item value="Left" priority="2" />
+      <Item value="startA" priority="2" />
+      <Item value="startB" priority="3" />
+      <Item value="is" priority="0" />
+      <Item value="runA" priority="1" />
+      <Item value="checkBuilder`0" priority="0" />
+      <Item value="consecutiveACount" priority="2" />
+      <Item value="lastAIndex" priority="1" />
+      <Item value="IFormatProvider`0" priority="0" />
+      <Item value="digitSumsLessThanNine`0" priority="2" />
+      <Item value="numberWorking" priority="1" />
+      <Item value="HashSet&lt;char&gt;" priority="0" />
+      <Item value="bigNumber" priority="13" />
+      <Item value="lastUsedDigit" priority="4" />
+      <Item value="seedDigit" priority="3" />
+      <Item value="PandigitalStepBuilder`0" priority="8" />
+      <Item value="parentString" priority="0" />
+      <Item value="nextDigit" priority="1" />
+      <Item value="PandigitalStepBuilder" priority="1" />
+      <Item value="stepUp" priority="0" />
+      <Item value="List&lt;PandigitalStepBuilder&gt;" priority="1" />
+      <Item value="nexts" priority="1" />
+      <Item value="up" priority="2" />
+      <Item value="Stack&lt;PandigitalStepBuilder&gt;" priority="0" />
+      <Item value="top" priority="2" />
+      <Item value="sizeLimit" priority="3" />
+      <Item value="startTime" priority="0" />
+      <Item value="AppDomainManagerInitializationOptions`0" priority="0" />
+      <Item value="Program`0" priority="0" />
+      <Item value="containsZero" priority="2" />
+      <Item value="stepDown" priority="0" />
+      <Item value="containsNine" priority="0" />
+      <Item value="startLimitIterator" priority="1" />
+      <Item value="seed" priority="2" />
+      <Item value="sizeLimitMove" priority="0" />
+      <Item value="Matrix`0" priority="4" />
+      <Item value="Matrix" priority="0" />
+      <Item value="oneToEight" priority="4" />
+      <Item value="getAdjacencyMatrix`0" priority="0" />
+      <Item value="adjMatrix" priority="5" />
+      <Item value="var" priority="0" />
+      <Item value="List&lt;Matrix&gt;" priority="0" />
+      <Item value="powMatricies" priority="2" />
+      <Item value="stepsToZeroStartingStepNums" priority="0" />
+      <Item value="orderOfMagnitude`0" priority="0" />
+      <Item value="workingPlace" priority="1" />
+      <Item value="multiplierOrderOfMagnitude" priority="2" />
+      <Item value="ooM" priority="0" />
+      <Item value="incrementer" priority="3" />
+      <Item value="findNumber`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="24" />
+      <Item value="Add`0" priority="28" />
+      <Item value="Average`1" priority="0" />
+      <Item value="Sort`0" priority="11" />
+      <Item value="Contains`0" priority="1" />
+      <Item value="Distinct`1" priority="0" />
+      <Item value="TrueForAll`0" priority="0" />
+      <Item value="AsQueryable`0" priority="0" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="AddRange`0" priority="1" />
+      <Item value="RemoveAt`0" priority="1" />
+      <Item value="Reverse`0" priority="2" />
+      <Item value="ToArray`0" priority="0" />
+      <Item value="ForEach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="157" />
+      <Item value="Write`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProjectEuler227.Dice">
+      <Item value="roll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Parallel">
+      <Item value="For`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Priority" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.HashSet`1">
+      <Item value="Add`0" priority="32" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="Sum`1" priority="1" />
+      <Item value="Contains`0" priority="10" />
+      <Item value="Count" priority="12" />
+      <Item value="Min`2" priority="0" />
+      <Item value="IsProperSubsetOf`0" priority="0" />
+      <Item value="Remove`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Pow`0" priority="5" />
+      <Item value="Ceiling`0" priority="0" />
+      <Item value="Sin`0" priority="0" />
+      <Item value="Acos`0" priority="0" />
+      <Item value="Sqrt`0" priority="11" />
+      <Item value="Floor`0" priority="4" />
+      <Item value="Min`0" priority="0" />
+      <Item value="Log10`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EulerLibrary.FactorTree">
+      <Item value="root" priority="2" />
+      <Item value="left" priority="0" />
+      <Item value="getPrimeFactors`0" priority="10" />
+      <Item value="getFactors`0" priority="0" />
+      <Item value="rootValue`0" priority="1" />
+      <Item value="right" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EulerLibrary.Numbers">
+      <Item value="createFactorTree`0" priority="3" />
+      <Item value="findPrimesBelowInt`0" priority="2" />
+      <Item value="nCr`0" priority="3" />
+      <Item value="rref`0" priority="0" />
+      <Item value="isSquare`0" priority="4" />
+      <Item value="findPrimesBelow`0" priority="0" />
+      <Item value="isPrime`0" priority="0" />
+      <Item value="findPrimeFactors`0" priority="1" />
+      <Item value="prepareStaticPrimeList`0" priority="0" />
+      <Item value="findPrimesBelowIntFAST`0" priority="1" />
+      <Item value="primes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Stack`1">
+      <Item value="Push`0" priority="13" />
+      <Item value="Count" priority="3" />
+      <Item value="Pop`0" priority="4" />
+      <Item value="Peek`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="11" />
+      <Item value="ContainsKey`0" priority="4" />
+      <Item value="Contains`1" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="GetEnumerator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MaxValue" priority="0" />
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="4" />
+      <Item value="Key" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Tuple`2">
+      <Item value="Item2" priority="1" />
+      <Item value="Item1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProjectEuler90.Dice">
+      <Item value="GetHashCode`0" priority="5" />
+      <Item value="containsSide`0" priority="2" />
+      <Item value="getAllSides`0" priority="1" />
+      <Item value="containsMissingSides`0" priority="0" />
+      <Item value="getSidesNeededByOtherDice`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProjectEuler90.PairOfDice">
+      <Item value="d1" priority="1" />
+      <Item value="d2" priority="1" />
+      <Item value="isWorkingPair`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProjectEuler96.FillSquareOperation">
+      <Item value="doAction`0" priority="1" />
+      <Item value="hasMoreOperations`0" priority="0" />
+      <Item value="undoAction`0" priority="2" />
+      <Item value="didLastMoveWork`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine`0" priority="2" />
+      <Item value="EndOfStream" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ProjectEuler96.SudokuSquare">
+      <Item value="MAX_SIZE" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Byte">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProjectEuler96.SudokuSquare">
+      <Item value="updateCell`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="getFirstThreeNumbers`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Byte">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProjectEuler54.Program+Card">
+      <Item value="suit" priority="1" />
+      <Item value="value" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProjectEuler54.Program+Hand">
+      <Item value="handType" priority="4" />
+      <Item value="orderedListOfHighCard" priority="1" />
+      <Item value="isThisHandWinningATie`0" priority="0" />
+      <Item value="doesBeat`0" priority="1" />
+      <Item value="ClassifyHand`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Where`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ProjectEuler54.Program+HandType">
+      <Item value="Flush" priority="0" />
+      <Item value="OnePair" priority="2" />
+      <Item value="HighCard" priority="1" />
+      <Item value="ThreeOfAKind" priority="1" />
+      <Item value="FullHouse" priority="0" />
+      <Item value="Straight" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="13" />
+      <Item value="MinValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalDays" priority="0" />
+      <Item value="TotalMilliseconds" priority="3" />
+      <Item value="TotalSeconds" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.GC">
+      <Item value="GetTotalMemory`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Tuple`3">
+      <Item value="Item1" priority="1" />
+      <Item value="Item3" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProjectEuler220.StepNode">
+      <Item value="nodeType" priority="1" />
+      <Item value="left" priority="0" />
+      <Item value="depth" priority="1" />
+      <Item value="parent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ProjectEuler220.NodeType">
+      <Item value="R" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="0" />
+      <Item value="Count`1" priority="1" />
+      <Item value="ToCharArray`0" priority="0" />
+      <Item value="Length" priority="4" />
+      <Item value="Contains`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ProjectEuler220.Direction">
+      <Item value="U" priority="6" />
+      <Item value="R" priority="1" />
+      <Item value="D" priority="1" />
+      <Item value="L" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProjectEuler220.Orientation">
+      <Item value="x" priority="5" />
+      <Item value="y" priority="5" />
+      <Item value="applyRotation`0" priority="4" />
+      <Item value="applyStep`0" priority="7" />
+      <Item value="d" priority="13" />
+      <Item value="clone`0" priority="3" />
+      <Item value="addOrientations`0" priority="8" />
+      <Item value="rotateWholeMovementPath`0" priority="3" />
+      <Item value="rotateWholePathToDirection`0" priority="0" />
+      <Item value="changeDirection`0" priority="10" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ProjectEuler220.Rotation">
+      <Item value="Right" priority="15" />
+      <Item value="Left" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Append`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.UInt64">
+      <Item value="MaxValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProjectEuer178.PandigitalStepBuilder">
+      <Item value="size`0" priority="1" />
+      <Item value="createNextStep`0" priority="0" />
+      <Item value="getBigNumber`0" priority="0" />
+      <Item value="containsNine" priority="0" />
+      <Item value="containsZero" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ProjectEuer178.Program">
+      <Item value="sizeLimit" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Matrix">
+      <Item value="SetCol`0" priority="0" />
+      <Item value="SolveWith`0" priority="0" />
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Matrix">
+      <Item value="Power`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

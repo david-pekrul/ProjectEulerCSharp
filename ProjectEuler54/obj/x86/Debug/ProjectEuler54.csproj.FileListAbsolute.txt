@@ -1,0 +1,5 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler54\bin\Debug\ProjectEuler54.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler54\bin\Debug\ProjectEuler54.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler54\obj\x86\Debug\ProjectEuler54.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler54\obj\x86\Debug\ProjectEuler54.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler54\bin\Debug\poker.txt

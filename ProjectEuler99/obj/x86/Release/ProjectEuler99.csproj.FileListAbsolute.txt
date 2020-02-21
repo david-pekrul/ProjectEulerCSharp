@@ -1,0 +1,5 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler99\bin\Release\baseexp.txt
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler99\bin\Release\ProjectEuler99.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler99\bin\Release\ProjectEuler99.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler99\obj\x86\Release\ProjectEuler99.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler99\obj\x86\Release\ProjectEuler99.pdb

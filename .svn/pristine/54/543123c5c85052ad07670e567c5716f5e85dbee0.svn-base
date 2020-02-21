@@ -1,0 +1,197 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+
+namespace ProjectEuler54
+{
+    class Program
+    {
+        enum Suit
+        {
+            Heart, Club, Diamond, Spade
+        }
+        enum HandType
+        {
+            HighCard, OnePair, TwoPairs, ThreeOfAKind, Straight, Flush, FullHouse, FourOfAKind, StraightFlush, RoyalFlush
+        }
+
+        
+        static void Main(string[] args)
+        {
+            StreamReader reader = new StreamReader("poker.txt");
+            while(!reader.EndOfStream)
+            {
+                string line = reader.ReadLine();
+                string firstHand = line.Substring(0, 15).Trim();
+                string secondHand = line.Substring(15).Trim();
+                //Console.WriteLine(firstHand);
+                //Console.WriteLine(secondHand);
+                Hand temp = new Hand(firstHand);
+                Console.WriteLine(temp);
+                temp.ClassifyHand();
+                
+
+            }
+        }
+
+        class Hand
+        {
+            public List<Card> hand;
+            public HandType handType;
+            public List<Card> orderedListOfHighCard;
+
+            public Hand(string str)
+            {
+                hand = new List<Card>(5);
+                string[] split = str.Split(' ');
+                for(int i = 0; i < 5; i++)
+                {
+                    Card temp = new Card(split[i][0], split[i][1]);
+                    hand.Add(temp);
+                }
+                orderedListOfHighCard = new List<Card>(5);
+            }
+
+            public void ClassifyHand()
+            {
+                List<Card> sortedByValue = new List<Card>();
+                foreach(Card c in hand)
+                {
+                    sortedByValue.Add(c);
+                }
+                sortedByValue.Sort((a,b) => a.value.CompareTo(b.value));
+                sortedByValue.Reverse();//Ace first, 2 last
+
+                foreach(Card c in sortedByValue)
+                {
+                    Console.WriteLine(c);
+                }
+
+                int highValue = sortedByValue[0].value;
+                Suit highSuit = sortedByValue[0].suit;
+                if (sortedByValue[1].value == (highValue - 1) && sortedByValue[2].value == (highValue - 2) && sortedByValue[3].value == (highValue - 3) && sortedByValue[4].value == (highValue - 4))
+                {
+                    //Straight, Flush, or Royal Flush
+                    int numberOfDifferentSuits = sortedByValue.Count(a => a.suit == highSuit);
+                    if(numberOfDifferentSuits == 1)
+                    {
+                        //straight or royal
+                        if(highValue == 14)
+                        {
+                            //Consecutive values, one suit
+                            handType = HandType.RoyalFlush;
+                            foreach(Card c in hand)
+                            {
+                                orderedListOfHighCard.Add(c);
+                            }
+                        }
+                        else
+                        {
+                            //Consecutive values, more than one suit
+                            handType = HandType.StraightFlush;
+                            foreach (Card c in hand)
+                            {
+                                orderedListOfHighCard.Add(c);
+                            }
+                        }
+                    }
+                    else
+                    {
+                        //Straight
+                        handType = HandType.Straight;
+                        foreach (Card c in hand)
+                        {
+                            orderedListOfHighCard.Add(c);
+                        }
+
+                    }
+                }
+            }
+
+             
+
+            public override string ToString()
+            {
+                string str = "[";
+                foreach(Card c in hand)
+                {
+                    str += c;
+                    str += " ";
+                }
+
+                return str.TrimEnd() +"]";
+            }
+        }
+
+        class Card
+        {
+            public Suit suit;
+            public int value;
+            public Card(char v, char s)
+            {
+                suit = toSuit(s);
+                value = toValue(v);
+            }
+
+            private Suit toSuit(char s)
+            {
+                switch (s)
+                {
+                    case 'C':
+                        return Suit.Club;
+                    case 'S':
+                        return Suit.Spade;
+                    case 'D':
+                        return Suit.Diamond;
+                    case 'H':
+                        return Suit.Heart;
+                    default:
+                        throw new Exception("unexpected suit");
+                }
+            }
+
+            private int toValue(char v)
+            {
+                switch (v)
+                {
+                    case '2':
+                        return 2;
+                    case '3':
+                        return 3;
+                    case '4':
+                        return 4;
+                    case '5':
+                        return 5;
+                    case '6':
+                        return 6;
+                    case '7':
+                        return 7;
+                    case '8':
+                        return 8;
+                    case '9':
+                        return 9;
+                    case 'T':
+                        return 10;
+                    case 'J':
+                        return 11;
+                    case 'Q':
+                        return 12;
+                    case 'K':
+                        return 13;
+                    case 'A':
+                        return 14;
+                    default:
+                        throw new Exception("Unexpected value");
+                }
+            }
+
+            public override string ToString()
+            {
+                return "" + value + suit;
+            }
+
+        }
+    }
+}

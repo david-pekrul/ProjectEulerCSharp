@@ -1,0 +1,5 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler96\bin\Debug\sudoku.txt
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler96\bin\Debug\ProjectEuler96.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler96\bin\Debug\ProjectEuler96.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler96\obj\x86\Debug\ProjectEuler96.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler96\obj\x86\Debug\ProjectEuler96.pdb

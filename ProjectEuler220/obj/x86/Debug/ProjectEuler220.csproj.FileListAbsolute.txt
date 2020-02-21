@@ -1,0 +1,5 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler220\bin\Debug\ProjectEuler220.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler220\bin\Debug\ProjectEuler220.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler220\obj\x86\Debug\ProjectEuler220.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler220\obj\x86\Debug\ProjectEuler220.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler220\obj\x86\Debug\ProjectEuler220.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuer178\bin\Debug\ProjectEuer178.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuer178\bin\Debug\ProjectEuer178.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuer178\obj\x86\Debug\ProjectEuer178.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuer178\obj\x86\Debug\ProjectEuer178.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuer178\obj\x86\Debug\ProjectEuer178.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuer178\bin\Debug\ProjectEuer178.exe.config
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuer178\bin\Debug\EulerLibrary.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuer178\bin\Debug\EulerLibrary.pdb

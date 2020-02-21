@@ -1,0 +1,4 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler148generator\bin\Release\ProjectEuler148generator.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler148generator\bin\Release\ProjectEuler148generator.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler148generator\obj\x86\Release\ProjectEuler148generator.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler148generator\obj\x86\Release\ProjectEuler148generator.pdb

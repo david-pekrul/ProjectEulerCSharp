@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler82_2\bin\Debug\matrix.txt
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler82_2\bin\Debug\matrixSmall.txt
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler82_2\bin\Debug\ProjectEuler82_2.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler82_2\bin\Debug\ProjectEuler82_2.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler82_2\obj\x86\Debug\ProjectEuler82_2.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ProjectEuler\ProjectEuler82_2\obj\x86\Debug\ProjectEuler82_2.pdb
